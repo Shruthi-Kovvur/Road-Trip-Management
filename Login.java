@@ -24,9 +24,9 @@ public class Login {
 		 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 		 */
 		public String getUsername() {
-			// begin-user-code
+			// user code
 			return Username;
-			// end-user-code
+			// code genration
 		}
 
 		/** 
@@ -34,9 +34,9 @@ public class Login {
 		 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 		 */
 		public void setUsername(String theUsername) {
-			// begin-user-code
+			
 			Username = theUsername;
-			// end-user-code
+			
 		}
 
 		/** 
@@ -49,9 +49,9 @@ public class Login {
 		 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 		 */
 		public String getPassword() {
-			// begin-user-code
+			
 			return Password;
-			// end-user-code
+			
 		}
 
 		/** 
